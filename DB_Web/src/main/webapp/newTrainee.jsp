@@ -6,8 +6,8 @@
 <meta charset="ISO-8859-1">
 <title>Add a Trainee</title>
 </head>
-<body>
-	<table>
+<body bgcolor="green">
+	<table border="1" bgcolor="purple">
 		<form action="addTrainee.jsp" method="get">
 			<tr>
 				<th>Sl No</th>
